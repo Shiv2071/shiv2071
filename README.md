@@ -22,7 +22,7 @@
   <a href="https://x.com/ArtistShivG" title="Twitter / X">
     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40" height="40" alt="X / Twitter"/>
   </a>&nbsp;&nbsp;
-  <a href="mailto:your@email.com" title="Email">
+  <a href="mailto:shiv@terraflock.com" title="Email">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
   </a>&nbsp;&nbsp;
   <a href="https://shivgoswami.com" title="Portfolio">
