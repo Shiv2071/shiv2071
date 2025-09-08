@@ -10,7 +10,7 @@
 - 🎓 Astrophysics & Astronomy (Penn State)  
 - 🚀 Founder of **[Terraflock](https://github.com/terraflock)** & **Entropis AI**  
 - 💡 Building **social + AI ecosystems** with wellbeing-first design  
-- 🛠️ Current focus: realtime TTS, futuristic UI, cloud-first infra  
+- 🛠️ Current focus: realtime emotional TTS, futuristic UI, cloud-first infra  
 - 🌍 Based in India, building globally  
 ---
 
