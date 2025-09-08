@@ -16,7 +16,7 @@
 
 ## 🔗 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" title="LinkedIn">
+  <a href="https://linkedin.com/in/shiv-goswami-0276781b5" title="LinkedIn">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/your-handle" title="Twitter / X">
