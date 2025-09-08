@@ -63,8 +63,8 @@
 
 ---
 
-## 🧠 What I’m Learning Next
-- ⚙️ Ultra-low latency streaming TTS  
+## 🧠 What I’m Learning
+- ⚙️ Ultra-low latency humanoid expressive streaming TTS  
 - 🌐 Edge-first architectures for AI apps  
 - 🎨 Motion design systems for product feel  
 
