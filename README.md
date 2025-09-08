@@ -19,7 +19,7 @@
   <a href="https://linkedin.com/in/shiv-goswami-0276781b5" title="LinkedIn">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/your-handle" title="Twitter / X">
+  <a href="https://x.com/ArtistShivG" title="Twitter / X">
     <img src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" width="40" height="40" alt="X / Twitter"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:your@email.com" title="Email">
